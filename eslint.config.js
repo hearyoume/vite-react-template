@@ -106,6 +106,7 @@ export default [
       yoda: "error",
       "no-array-constructor": "error",
       "no-new-object": "error",
+      "no-nested-ternary": "error",
 
       "use-encapsulation/prefer-custom-hooks": [
         "error",
