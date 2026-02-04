@@ -1,5 +1,4 @@
 {
-  "chat.useAgentsMdFile": true,
   "css.validate": false,
   "editor.autoClosingBrackets": "beforeWhitespace",
   "editor.autoClosingComments": "always",
